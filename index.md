@@ -1,4 +1,4 @@
-## POLÍTICA DE PRIVACIDADE DA NUTRIPAD
+# POLÍTICA DE PRIVACIDADE DA NUTRIPAD
 
 Bem vindo a Nutripad . Para que possamos oferecer um aplicativo melhor e mais direcionado às suas preferências, processar eventuais pedidos e reclamações, informá-lo sobre alterações relevantes em nossos serviços ou relacionadas às suas demandas, compreender suas preferências nas escolhas efetuadas por meio do aplicativo, sugerir promoções de acordo com seus critérios, de forma a tornar seu uso mais próximo aos seus interesses, é importante contarmos com suas informações, por isso, leia atentamente esta política e nosso Termo de Uso.
 
